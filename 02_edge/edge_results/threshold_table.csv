@@ -1,0 +1,13 @@
+Image,Method,Threshold/Sigma,Num_Edge_Pixels
+cameraman,Sobel,N/A,20940
+cameraman,Canny_sigma1,0.1-0.3,18702
+cameraman,Canny_sigma2,0.2-0.5,5107
+coin,Sobel,N/A,16000
+coin,Canny_sigma1,0.1-0.3,11660
+coin,Canny_sigma2,0.2-0.5,3963
+rubik,Sobel,N/A,22623
+rubik,Canny_sigma1,0.1-0.3,13624
+rubik,Canny_sigma2,0.2-0.5,6930
+dice,Sobel,N/A,30870
+dice,Canny_sigma1,0.1-0.3,20490
+dice,Canny_sigma2,0.2-0.5,2779
