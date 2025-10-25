@@ -24,8 +24,8 @@ It's recommended to run all the script using **Python virtual environment (venv)
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/username/nama-repo.git
-   cd nama-repo
+   git clone https://github.com/Flame25/Christopher-Richard_18222057_IF5152_TugasIndividuCV.git
+   cd Christopher-Richard_18222057_IF5152_TugasIndividuCV
    ```
 2. **Prepare venv**
    ```bash 
